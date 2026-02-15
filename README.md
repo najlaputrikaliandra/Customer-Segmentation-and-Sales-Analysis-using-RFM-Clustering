@@ -1,6 +1,6 @@
 <h1 align="center">Segmenlytics: Customer Segmentation & Marketing Intelligence</h1>
 
-Ini adalah proyek machine learning capstone project Asah 2025 dari usecase Customer Segmentation for Personalized Retail Marketing.
+Ini adalah proyek machine learning capstone project Asah 2025 dari tim capstone A25-CS310 dengan usecase Customer Segmentation for Personalized Retail Marketing.
 Didalam repositori ini, anda dapat menjelajahi seluruh proses analisis berdasarkan daftar isi yang tersedia.
 
 ---
